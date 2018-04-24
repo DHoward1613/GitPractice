@@ -1,2 +1,2 @@
-# GitPractice
-initial commit
+# Gitting Some Practice
+## Dakota Howard
